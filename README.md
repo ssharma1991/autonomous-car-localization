@@ -78,3 +78,6 @@ For instructions on how to install these components on different operating syste
     - `cmake ..`
     - `make`
 - Run the Udacity simulator and check the results
+
+## References
+This project is submitted as partial fulfillment of the Udacity's Self-Driving Car Engineer Nanodegree program. The helper code is available [here](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project).
